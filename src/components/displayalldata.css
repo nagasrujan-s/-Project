@@ -1,0 +1,11 @@
+.img{
+    height: 250px;
+    padding: 30px;
+}
+.card1{
+    border-radius: 20px;
+    border: 2px solid rgb(255, 153, 0);
+    height: 480px;
+    margin-bottom: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}

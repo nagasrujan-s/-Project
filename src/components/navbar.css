@@ -1,0 +1,13 @@
+@font-face {
+    font-family: head;
+    src: url(/public/fonts/Pacifico-Regular.ttf);
+}
+nav{
+    font-family: 'Times New Roman', Times, serif;
+}
+.image{
+    height: 550px;
+}
+.shop{
+    font-family:head;
+}
